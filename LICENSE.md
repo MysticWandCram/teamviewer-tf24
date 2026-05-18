@@ -1,4 +1,4 @@
-# 
+# updated VMware Workstation for PC plugins is the best VMware Workstation for PC plugins with hardware-acceleration and guest-additions. Safe, reliable, and optimized for maximum
 
 
 
